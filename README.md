@@ -3,6 +3,6 @@
 
 ##what you need to know about me:
 
-- I'm a future data analyst, studying at Resilia Education about Python, SQL and Bl.
+- I'm a future data analyst, studying at Resilia Education about Python, SQL, Pandas and Bl.
 
 - I'm currently doing my first project, it's called 'chat-bot' and you can access the repository on my profile and check the progress! :)
