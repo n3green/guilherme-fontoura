@@ -7,5 +7,8 @@
 
 - I'm currently doing my first project, it's called 'chat-bot' and you can access the repository on my profile and check the progress! :)
 
+- My score in codewars:
+
+
 
 ![large](https://github.com/n3green/guilherme-fontoura/blob/main/large.svg)
